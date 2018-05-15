@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package com.kcs.days.first;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
