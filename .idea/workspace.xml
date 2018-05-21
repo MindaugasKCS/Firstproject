@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f9eb414-7ae4-4792-870d-b5ef7584a20b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kcs/days/Fifth/Fifth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kcs/days/Fuorth/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kcs/days/Fuorth/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kcs/days/Fuorth/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kcs/days/Fuorth/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kcs/days/Fuorth/UzduotisPirma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/kcs/days/second/SecondTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/kcs/days/second/SecondTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kcs/days/third/FirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kcs/days/third/FirstTask.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f9eb414-7ae4-4792-870d-b5ef7584a20b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,7 +94,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1615" />
@@ -344,12 +334,12 @@
       <workItem from="1526571497385" duration="1191000" />
       <workItem from="1526709841230" duration="4136000" />
       <workItem from="1526714606283" duration="9091000" />
-      <workItem from="1526907510327" duration="1834000" />
+      <workItem from="1526907510327" duration="2087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56481000" />
+    <option name="totallyTimeSpent" value="56734000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
